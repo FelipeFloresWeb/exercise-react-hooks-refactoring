@@ -3,12 +3,14 @@
 }
 
 .car-right {
-  transform: translateX(200px);
+  transform: translateX(90vw);
   width: 100px;
+  transition: 3s;
 }
 
 .car-left {
   width: 100px;
+  transition: 3s;
 }
 
 .button-container {
